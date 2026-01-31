@@ -1,3 +1,6 @@
+## Credits
+Forked from https://github.com/original-owner/project-name](https://github.com/End2EndAI/valentine-website-2025
+
 # 💝 Valentine's Day Website 2025 💝
 
 [![Stars](https://img.shields.io/github/stars/End2EndAI/valentine-website-2025?style=social)](https://github.com/End2EndAI/valentine-website-2025/stargazers)
