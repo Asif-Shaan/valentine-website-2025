@@ -38,7 +38,7 @@ const CONFIG = {
             noBtn: "No"                                                 // Text for "No" button
         },
         fourth: {
-            text: "..and on every other valentine from now on 🤧? 🌹", // The big question!
+            text: "..and on every other Valentine from now on 🤧? 🌹", // The big question!
             yesBtn: "Yes!",                                             // Text for "Yes" button
             noBtn: "No"                                                 // Text for "No" button
         }
